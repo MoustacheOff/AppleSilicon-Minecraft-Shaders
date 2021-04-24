@@ -1,7 +1,7 @@
 # List of working shaders on M1 Macs
 ![M1Shaders](https://user-images.githubusercontent.com/49116367/115900667-829bdb00-a460-11eb-9a3b-1ca19a03f18b.png)
 
-All shaders mentioned below have been tested on a Mac mini M1. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). To know how to do this go here: https://github.com/yusefnapora/m1-multimc-hack
+All shaders mentioned below have been tested on a M1 Mac mini. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). To know how to do this go here: https://github.com/yusefnapora/m1-multimc-hack
 
 ## Most used (for M1): Sildur's Enhanced Default
 
@@ -39,6 +39,10 @@ The Simplicissimus works great on the M1 chip. It adds a remarquable fog effect.
 ## Tea Shaders
 
 The Tea Shaders are a laggy version of Simplicissimus. It runs at ≈ 10 FPS.
+
+## Chocapic13' Shaders
+
+Most versions of Chocapic13' Shaders will not work on M1 Macs. However, V7.x works (Ultra, Extreme and Toaster are not functional). It gets 80-120 FPS on Medium version.
 
 ### Contact me:
 
