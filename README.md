@@ -42,7 +42,7 @@ The Tea Shaders are a laggy version of Simplicissimus. It runs at ≈ 10 FPS.
 
 ## Chocapic13' Shaders
 
-Most versions of Chocapic13' Shaders will not work on M1 Macs. However, V7.x works (Ultra, Extreme and Toaster are not functional). It gets 80-120 FPS on Medium version.
+Most versions of Chocapic13' Shaders will not work on M1 Macs. However, V7.x works (Toaster, High, Ultra, and Extreme are not functional). It gets 80-120 FPS on Medium version.
 
 ### Contact me:
 
