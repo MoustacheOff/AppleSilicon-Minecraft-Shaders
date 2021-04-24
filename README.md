@@ -32,6 +32,13 @@ The KUDA Shaders are a good alternative to the Sildurs Shaders. It runs at 50-55
 
 Sora Shaders are a glitchy alternative to Sildurs Shaders. There are some problems with the rendering of the water and the lighting effects are much worse. If you are looking for an alternative to Sildurs, choose the KUDA Shaders above.
 
+## Simplicissimus
+
+The Simplicissimus works great on the M1 chip. It adds a remarquable fog effect. It runs at 90-160 FPS
+
+## Tea Shaders
+
+The Tea Shaders are a laggy version of Simplicissimus. It runs at ≈ 10 FPS.
 
 ### Contact me:
 
