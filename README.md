@@ -3,6 +3,8 @@
 
 All shaders mentioned below have been tested on a M1 Mac mini. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). To know how to do this go there: https://github.com/yusefnapora/m1-multimc-hack
 
+## Info: For the moment, the following shaders have been tested only with OptiFine, but a test with Iris will be added soon...
+
 ## Most used (for M1): Sildur's Enhanced Default
 
 Running perfectly at 140-200 FPS. (adds graphical improvements and waving plants)
