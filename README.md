@@ -55,4 +55,4 @@ Most versions of Chocapic13' Shaders will not work on M1 Macs. However, V7.x wor
 
 ### Contact me:
 
-#### Discord : Moustache#0001
+#### Discord: Moustache#0001
