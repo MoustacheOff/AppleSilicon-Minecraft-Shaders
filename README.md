@@ -1,9 +1,9 @@
-# List of working shaders on M1 Macs
+# List of working shaders on Apple Silicon Macs
 ![M1Shaders](https://user-images.githubusercontent.com/49116367/115900667-829bdb00-a460-11eb-9a3b-1ca19a03f18b.png)
 
 All shaders mentioned below have been tested on a M1 Mac mini. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). To know how to do this go there: https://github.com/yusefnapora/m1-multimc-hack
 
-## 07/06/2021: INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5), but a test with Iris will be added soon...
+## 07/06/2021: INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5 and 1.17.1), but a test with Iris will be added soon...
 ## 05/08/2021 UPDATE: Some of these shaders aren't working with Iris.
 
 ## Most used (for M1): Sildur's Enhanced Default
