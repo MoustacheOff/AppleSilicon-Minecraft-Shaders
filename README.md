@@ -4,7 +4,7 @@
 All shaders mentioned below have been tested on a M1 Mac mini. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). To know how to do this go there: https://github.com/yusefnapora/m1-multimc-hack
 
 ## 07/06/2021: INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5), but a test with Iris will be added soon...
-## 08/05/2021 UPDATE: Some of these shaders aren't working with Iris.
+## 05/08/2021 UPDATE: Some of these shaders aren't working with Iris.
 
 ## Most used (for M1): Sildur's Enhanced Default
 
@@ -30,6 +30,12 @@ I recommend using the High version of the v1.20 (the newer versions are complete
 ## KUDA Shaders
 
 The KUDA Shaders are a good alternative to the Sildurs Shaders. It runs at 50-55 FPS. I recommend using the v6.5.56 because the the v6.1 Legacy doesn't works and sometimes crashes the game.
+
+## SEUS Renewed (fixed version)
+
+![SEUSRenewedMaxSettings1080](https://i.goopics.net/ehb9ts.png)
+
+Sonic Ether's Unbelievable Shaders are known to give incredible graphics as well as being very performance intensive. Here, I'm using a modified version of the shaders to fix the OpenGL issue but the game is barely playable at max settings (Render quality: 2 ; Shadows quality: 2 etc…) If you want to download the fix for the shaders, here's the link: https://www.mediafire.com/file/pwupji700igvf7l/SEUS-Renewed-v1.0.1_applesilicon-fixed.zip/file
 
 ## Sora Shaders
 
