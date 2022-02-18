@@ -27,7 +27,7 @@ This isn't the best shader for performance but it is one of the best for taking 
 ## Sildur's Shaders
 
 It is most used of shaders and the one that combines all the qualities: good performance and a lot of features. It adds almost everything mentioned above.
-I recommend using the High version of the v1.20 (the newer versions are completely unplayable and the graphics are worse). It runs on this version a ≈ 65 FPS.
+I recommend using the High version of the v1.20 (the newer versions are completely unplayable and the graphics are worse). It runs on this version at ≈ 65 FPS.
 
 ## KUDA Shaders
 
