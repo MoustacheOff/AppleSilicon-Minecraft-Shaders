@@ -55,6 +55,8 @@ The Tea Shaders are a laggy version of Simplicissimus. It runs at ≈ 10 FPS.
 
 Most versions of Chocapic13' Shaders will not work on M1 Macs. However, V7.x works (Toaster, High, Ultra, and Extreme are not functional). It gets 80-120 FPS on Medium version.
 
+## I just saw this repo that claims to provide "M1-optimized" shaders: https://github.com/mhossein1384/Multimc-Optifine-1.18/releases, you should try it.
+
 ### Contact me:
 
 #### Discord: Moustache#0001
