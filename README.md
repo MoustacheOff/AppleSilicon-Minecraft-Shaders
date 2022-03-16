@@ -1,7 +1,7 @@
 # List of working shaders on Apple Silicon Macs
 ![M1Shaders](https://user-images.githubusercontent.com/49116367/115900667-829bdb00-a460-11eb-9a3b-1ca19a03f18b.png)
 
-All shaders mentioned below have been tested on a M1 Mac mini. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). To know how to do this go there: https://github.com/yusefnapora/m1-multimc-hack
+All shaders mentioned below have been tested on a M1 Mac mini in 1080p resolution. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). To know how to do this go there: https://github.com/yusefnapora/m1-multimc-hack
 
 ## TODO:
 ### Update the list with [#1](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders/issues/1) and [#2](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders/issues/2)
