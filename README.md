@@ -6,7 +6,7 @@ All shaders mentioned below have been tested on a M1 Mac mini in 1080p resolutio
 ## TODO:
 ### Update the list with [#1](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders/issues/1) and [#2](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders/issues/2)
 
-## 07/06/2021: INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5 and 1.17.1), but a test with Iris will be added soon...
+## INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5-1.18.2), but a test with Iris will be added soon...
 ## 08/05/2021: UPDATE: Some of these shaders aren't working with Iris.
 ## 02/18/2022: UPDATE: If you tested this shaders natively on a Mac equippped with the M1 Pro/Max/Ultra chip, please contact me on Discord: Moustache#0001
 
