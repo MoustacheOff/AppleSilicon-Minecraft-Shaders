@@ -30,7 +30,7 @@ This isn't the best shader for performance but it is one of the best for taking 
 
 ## Sildur's Shaders
 
-![SildursShadersv132Lite](https://i.goopics.net/bqghxc.png)
+![SildursShadersv1.32Lite](https://i.goopics.net/bqghxc.png)
 It is most used of shaders and the one that combines all the qualities: good performance and a lot of features. It adds almost everything mentioned above.
 ~~I recommend using the High version of the v1.20 (the newer versions are completely unplayable and the graphics are worse~~) It now works with v1.32, thanks for Baked Potato#2027 for letting me now about this 😀. It runs on this version at ≈ 65 FPS.
 
