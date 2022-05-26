@@ -28,9 +28,14 @@ The shaders adds Better Graphics, Waving Plants and Better Shades and Shadows.
 Running at 40-70 FPS, the shader adds realistic improvements like: Better sun, better water, waving plants, better shadows, better stars, better moon etc…
 This isn't the best shader for performance but it is one of the best for taking screenshots.
 
-## Sildur's Shaders
+## Complementary Shaders
+
+[ComplementaryDev2](https://i.goopics.net/rtqs4h.png)
+
+Complementary Shaders are one of the bests shaders right now. Since Complementary Shaders v4.5 Development Version 1 released on Complementary Discord Server, it is now available on M1. It runs at ≈ 40-45 FPS in the Overworld and ≈ 65 FPS in the Nether (the performance will likely change when 4.5 fully releases).
 
 ![SildursShadersv1.32Lite](https://i.goopics.net/bqghxc.png)
+
 It is most used of shaders and the one that combines all the qualities: good performance and a lot of features. It adds almost everything mentioned above.
 ~~I recommend using the High version of the v1.20 (the newer versions are completely unplayable and the graphics are worse~~) It now works with v1.32, thanks for Baked Potato#2027 for letting me now about this 😀. It runs on this version at ≈ 65 FPS.
 
