@@ -41,6 +41,12 @@ Complementary Shaders are one of the bests shaders right now. Since Complementar
 It is most used of shaders and the one that combines all the qualities: good performance and a lot of features. It adds almost everything mentioned above.
 ~~I recommend using the High version of the v1.20 (the newer versions are completely unplayable and the graphics are worse~~) It now works with v1.32, thanks for Baked Potato#2027 for letting me now about this 😀. It runs on this version at ≈ 65 FPS.
 
+## BSL Shaders
+
+![BSLShaders](https://i.goopics.net/e8t46f.png)
+
+BSL Shaders runs fine (35-40 FPS).
+
 ## KUDA Shaders
 
 The KUDA Shaders are a good alternative to the Sildurs Shaders. It runs at 50-55 FPS. I recommend using the v6.5.56 because the the v6.1 Legacy doesn't works and sometimes crashes the game.
