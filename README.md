@@ -1,11 +1,9 @@
 # List of working shaders on Apple Silicon Macs
 ![ASShaders](https://i.goopics.net/46gge1.png)
 
-All shaders mentioned below have been tested on a M1 Mac mini in 1080p resolution (+ MacBook Pro w/ M1 Pro). The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). You can do this by installing ManyMC (recommended): https://github.com/MinecraftMachina/ManyMC
+All shaders mentioned below have been tested on a M1 Mac mini in 1080p resolution. The game runs natively without Rosetta 2 emulation (allows for a more stable game with higher FPS). You can do this by installing ManyMC (recommended): https://github.com/MinecraftMachina/ManyMC
 
 ### Instead of creating an issue, please create a pull request to add modifications to the list. Thanks! 😄
-## TODO:
-### Update the list with [#1](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders/issues/1) and [#2](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders/issues/2)
 
 ## INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5-1.18.2), but a test with Iris will be added soon...
 ## 08/05/2021: UPDATE: Some of these shaders aren't working with Iris.
