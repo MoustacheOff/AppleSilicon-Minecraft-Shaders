@@ -7,7 +7,7 @@ All shaders mentioned below have been tested on a M1 Mac mini in 1080p resolutio
 
 ## INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5-1.18.2), but a test with Iris will be added soon...
 ## 08/05/2021: UPDATE: Some of these shaders aren't working with Iris.
-## 02/18/2022: UPDATE: If you tested this shaders natively on a Mac equippped with the M1 Pro/Max/Ultra chip, please contact me on Discord: Moustache#0001
+## 02/18/2022: UPDATE: If you tested this shaders natively on a Mac equippped with the M1 Pro/Max/Ultra chip, please contact me on Discord: Moustache#8832
 
 
 ## Most used (for M1): Sildur's Enhanced Default
