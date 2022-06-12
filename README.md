@@ -29,6 +29,7 @@ This isn't the best shader for performance but it is one of the best for taking 
 ## Complementary Shaders
 
 ![ComplementaryDev2](https://i.goopics.net/fewv21.png)
+(This performance has been recorded with Sodium+Iris)
 
 Complementary Shaders are one of the bests shaders right now. Since Complementary Shaders v4.5 Development Version 1 released on Complementary Discord Server, it is now available on M1. It runs at ≈ 40-45 FPS in the Overworld and ≈ 65 FPS in the Nether (the performance will likely change when 4.5 fully releases). You can also change between different presets in the shader's settings.
 
