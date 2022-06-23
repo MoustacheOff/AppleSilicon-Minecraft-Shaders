@@ -33,6 +33,8 @@ This isn't the best shader for performance but it is one of the best for taking 
 
 Complementary Shaders are one of the bests shaders right now. Since Complementary Shaders v4.5 Development Version 1 released on Complementary Discord Server, it is now available on M1. It runs at ≈ 40-45 FPS in the Overworld and ≈ 65 FPS in the Nether (the performance will likely change when 4.5 fully releases). You can also change between different presets in the shader's settings.
 
+##### Note: Complementary Reimagined's performance is worse than 'original' Complementary on the Apple Silicon Macs.
+
 ## Sildur's Vibrant shaders
 
 ![SildursShadersv1.32Lite](https://i.goopics.net/bqghxc.png)
