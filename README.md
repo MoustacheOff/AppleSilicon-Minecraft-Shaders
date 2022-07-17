@@ -12,18 +12,18 @@ All shaders mentioned below have been tested on a M1 Mac mini in 1080p resolutio
 
 ## Most used (for M1): Sildur's Enhanced Default
 
-Running perfectly at 140-200 FPS. (adds graphical improvements and waving plants)
+Running perfectly at 160 FPS (1080p) or 50 FPS (1440p). (adds graphical improvements and waving plants)
 
 ## Best for adventure: Chocapic13 HighPerformance
 
-Running really good at 150-220 FPS (Low version) and 280-360 FPS (Potato version).
-The Low version has got better graphics and the Potato version has better FPS.
+1080p : Running really good at 150-220 FPS (Low version) and 280-300 FPS (Potato version).
+1440p : 120-140 FPS.
 
 The shaders adds Better Graphics, Waving Plants and Better Shades and Shadows.
 
 ## Most realistic: projectLuma
 
-Running at 40-70 FPS, the shader adds realistic improvements like: Better sun, better water, waving plants, better shadows, better stars, better moon etc…
+Running at 40-70 FPS (1080p), the shader adds realistic improvements like: Better sun, better water, waving plants, better shadows, better stars, better moon etc…
 This isn't the best shader for performance but it is one of the best for taking screenshots.
 
 ## Complementary Shaders
