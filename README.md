@@ -1,3 +1,5 @@
+## For the complete list of shaders, go there: https://wiki.shaderlabs.org/wiki/Shaderpacks (look for the "M1" icon)
+
 # List of working shaders on Apple Silicon Macs
 ![ASShaders](https://i.goopics.net/8ptln7.png)
 
