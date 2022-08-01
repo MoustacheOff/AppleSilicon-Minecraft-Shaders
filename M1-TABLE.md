@@ -1,9 +1,20 @@
-## INFO: For the moment, the following shaders have been tested only with OptiFine (1.16.5-1.18.2), but a test with Iris will be added soon...
-## 08/05/2021: UPDATE: Some of these shaders aren't working with Iris.
-## 02/18/2022: UPDATE: If you tested this shaders natively on a Mac equippped with the M1 Pro/Max/Ultra chip, please contact me on Discord: Moustache#8832
+Tests done with:
 
+| Name | Value |
+| --- | --- |
+| Computer | Mac mini (M1 - 2020) |
+| Iris | / (multiple) |
+| MC | (multiple, check the screenshots) |
+| CPU | M1 |
+| RAM | 8 GB |
+| Resolution | 1920×1080 |
+| Battery | Plugged in |
+| Room Temp | ≈ 25°C (not recorded) |
+| CPU Idle Temp | (not recorded) |
 
-## Most used (for M1): Sildur's Enhanced Default
+## INFO: Some shaders aren't working with Iris.
+
+## Most used (on Apple Silicon): Sildur's Enhanced Default
 
 Running perfectly at 160 FPS (1080p) or 50 FPS (1440p). (adds graphical improvements and waving plants)
 
