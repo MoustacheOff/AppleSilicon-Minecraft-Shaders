@@ -1,3 +1,5 @@
+## ⚠️ Important: Iris 1.5 has been released and adds support for a lot of OptiFine shaders such as Chocapic13's shaders & more… so the performance may be better than the current benchmarks in this repo.
+
 ## For the complete list of shaders, go there: https://wiki.shaderlabs.org/wiki/Shaderpacks (look for the "M1" icon)
 
 # List of working shaders on Apple Silicon Macs
