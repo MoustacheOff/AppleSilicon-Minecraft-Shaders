@@ -60,3 +60,14 @@ I tested all shaders that are available on [Modrinth](https://modrinth.com/shade
 | [Simple Shader One](https://modrinth.com/shader/simple-shader-one) | ✅ | 504/373/359 | - |
 | [Simplicissimus Shader](https://modrinth.com/shader/simplicissimus) | ✅ | 103/92/82 | - |
 | [Snowimagined](https://modrinth.com/shader/snowimagined) | ✅ | 78/58/55 | - |
+| [Soft Voxels Lite](https://modrinth.com/shader/soft-voxels-lite) | ❌ | - | - |
+| [Solas Shader](https://modrinth.com/shader/solas-shader) | ✅ | 81/67/64 | - |
+| [Stereo's Default+](https://modrinth.com/shader/stereos-default+) | ✅ | 182/102/98 | - |
+| [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla) | ✅ | 148/104/102 | - |
+| [UShader](https://modrinth.com/shader/ushader) | ❌ | - | - |
+| [VanillAA](https://modrinth.com/shader/vanillaa) | ✅ | 319/313/294 | - |
+| [Vanilla Plus Shader](https://modrinth.com/shader/vanilla-plus-shader) | ❌ | - | - |
+| [VECTOR](https://modrinth.com/shader/vector) | ✅ | 213/208/204 | - |
+| [Voyager shader 2.0](https://modrinth.com/shader/voyager-shader-2.0) | ❌ | - | - |
+| [Vulkanite Demo Pack](https://modrinth.com/shader/vulkanite-demo-pack) | ❌ | - | - |
+| [YoFPS](https://modrinth.com/shader/yofps) | ✅ | 297/289/285 | Works flawlessly despite error message |
