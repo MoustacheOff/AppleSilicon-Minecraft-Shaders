@@ -33,3 +33,12 @@ I tested all shaders that are available on [Modrinth](https://modrinth.com/shade
 | [Builder's QOL Shaders](https://modrinth.com/shader/builders-qol-shaders) | ✅ | 228/206/188 | - |
 | [Cinematic Color Correction](https://modrinth.com/shader/cinematic-color-correction) | ✅ | 277/269/265 | - |
 | [Color Splash Shaders](https://modrinth.com/shader/colorsplash) | ❌ | - | - |
+| [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) | ✅ | 70/61/57 | - |
+| [Complementary Unbound](https://modrinth.com/shader/complementary-unbound) | ✅ | 65/63/57 | - |
+| [Cyanide Shaders](https://modrinth.com/shader/cyanide-shaders) | ✅ | 443/368/348 | - |
+| [Epoch](https://modrinth.com/shader/epoch) | ✅ | 102/89/89 | - |
+| [Exposa Shaders](https://modrinth.com/shader/exposa-shaders) | ❌ | - | - |
+| [FastPBR](https://modrinth.com/shader/fastpbr) | ❌ | - | - |
+| [cel Shader](https://modrinth.com/shader/cel-shader) | ✅ | 383/369/363 | Works flawlessly despite error message |
+| [Insanity Shader](https://modrinth.com/shader/insanity-shader) | ❌ | - | - |
+| [Kappa Shader](https://modrinth.com/shader/kappa-shader) | ❌ | - | - |
