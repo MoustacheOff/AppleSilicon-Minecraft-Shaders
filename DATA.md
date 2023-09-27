@@ -25,3 +25,11 @@ I tested all shaders that are available on [Modrinth](https://modrinth.com/shade
 | Name | Working? | FPS (max/avg/min) | Notes |
 | --- | --- | --- | --- |
 | Vanilla | ✅ | 579/498/494 | Baseline |
+| [Aeon](https://modrinth.com/shader/aeon) | ✅ | 393/382/349 | - |
+| [Arc](https://modrinth.com/shader/arc-shader) | ❌ | - | - |
+| [AstraLex Shaders](https://modrinth.com/shader/astralex) | ❌ | - | - |
+| [Bliss Shaders](https://modrinth.com/shader/bliss-shader) | ✅ | 97/74/65 | - |
+| [BSL Shaders](https://modrinth.com/shader/bsl-shaders) | ✅ | 100/94/88 | - |
+| [Builder's QOL Shaders](https://modrinth.com/shader/builders-qol-shaders) | ✅ | 228/206/188 | - |
+| [Cinematic Color Correction](https://modrinth.com/shader/cinematic-color-correction) | ✅ | 277/269/265 | - |
+| [Color Splash Shaders](https://modrinth.com/shader/colorsplash) | ❌ | - | - |
