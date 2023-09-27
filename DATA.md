@@ -51,3 +51,12 @@ I tested all shaders that are available on [Modrinth](https://modrinth.com/shade
 | [NoShader](https://modrinth.com/shader/noshader) | ✅ | 390/387/369 | - |
 | [Nostalgia Shader](https://modrinth.com/shader/nostalgia-shader) | ❌ | - | - |
 | [OpenShad](https://modrinth.com/shader/openshad) | ✅ | 90/73/71 | - |
+| [Pixel Perfect](https://modrinth.com/shader/pixel-perfect) | ❌ | - | - |
+| [Potato Shaders](https://modrinth.com/shader/potato-shaders) | ✅ | 164/159/158 | - |
+| [RedHat Shaders](https://modrinth.com/shader/redhat-shaders) | ✅ | 39/38/35 | - |
+| [Reflective Vanilla Shaders](https://modrinth.com/shader/reflective-vanilla-shaders) | ✅ | 146/119/113 | - |
+| [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) | ❌ | - | - |
+| [Shrimple](https://modrinth.com/shader/shrimple) | ❌ | - | - |
+| [Simple Shader One](https://modrinth.com/shader/simple-shader-one) | ✅ | 504/373/359 | - |
+| [Simplicissimus Shader](https://modrinth.com/shader/simplicissimus) | ✅ | 103/92/82 | - |
+| [Snowimagined](https://modrinth.com/shader/snowimagined) | ✅ | 78/58/55 | - |
