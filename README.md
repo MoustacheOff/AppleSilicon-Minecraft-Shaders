@@ -1,4 +1,4 @@
-![ASShaders](https://i.goopics.net/8ptln7.png)
+![ASShaders](https://moustash.dev/assets/as-shaders-banner.png)
 
 # Overview of Minecraft shaders on M1 Macs
 
