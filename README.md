@@ -1,6 +1,6 @@
 ![ASShaders](https://moustash.dev/assets/as-shaders-banner.png)
 
-# Overview of Minecraft shaders on M1 Macs
+# Overview of Minecraft shaders on Apple Silicon Macs
 
 View the full list of shaders with their performance details [here](DATA.md).
 
