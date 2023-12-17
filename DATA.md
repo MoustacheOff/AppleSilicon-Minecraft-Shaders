@@ -1,4 +1,4 @@
-# Minecraft 1.20 Shaders for M1 Macs
+# Minecraft 1.20 Shaders for Apple Silicon Macs
 
 The data in this list has been gathered with these conditions:
 
